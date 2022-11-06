@@ -47,3 +47,4 @@ cv2_imshow(res2)
 cv2.waitKey()
 cv2.destroyAllWindows()
 ```
+![image](https://user-images.githubusercontent.com/81907470/200178827-3ac4d651-6258-4674-9e2b-5d7ce8680307.png)
