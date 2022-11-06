@@ -32,4 +32,5 @@ from google.colab.patches import cv2_imshow
 cv2_imshow(res)
 cv2.waitKey()
 cv2.destroyAllWindows()
-```
+```![image](https://user-images.githubusercontent.com/81907470/200179092-5653eaed-c7cd-4a1f-97e9-3f126b1c6875.png)
+
