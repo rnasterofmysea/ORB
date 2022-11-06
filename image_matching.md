@@ -46,3 +46,6 @@ cv2_imshow(img_draw)
 cv2.waitKey()
 cv2.destroyAllWindows()
 ```
+
+![image](https://user-images.githubusercontent.com/81907470/200179138-06998fd7-83b2-4019-bb7a-c3faad32d240.png)
+
